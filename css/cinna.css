@@ -1,0 +1,136 @@
+@font-face {
+    font-family: "titulo";
+    src: url(../fuentes/ShadowsIntoLight-Regular.ttf);
+}
+body{
+    background-color: #AEE2FF;
+     background-image: url(../images/fondo.png); 
+     background-size: cover; 
+     font-size: 72%; 
+}
+header{
+    background-color: #ffffff;
+ background-image: url(../images/banner.jpg); 
+}
+/* nombre de la pagina */
+header h1{
+    color:#15516e;
+    font-family: "titulo";}
+/* estilos del navbar */
+.estilos{
+    font-family: "titulo";
+    font-size: 1.4rem;
+  
+   
+}
+/* color navbar */
+.color{
+    background-color: #AEE2FF;
+    
+}
+/* color del boton de productos */
+.botnpro{
+    background-color: #AEE2FF;
+}
+/* catalago */
+ h2{
+    font-family: "titulo";
+font-size: 5rem;
+color: #15516e;
+text-align: center;
+text-decoration: underline;
+}
+.nav{
+    font-family: "titulo";
+    font-size: 2rem;
+    color: #15516e;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+
+}
+.nav:hover{
+color: #4c0774;
+}
+/* section sobre nosotros */
+
+.p{
+    font-size: 1.8rem;
+    font-family: "titulo";
+    color: #15516e;
+    padding: 40px;
+  border: 1px solid black;
+}
+h3{
+    font-family: "titulo";
+    font-size: 2rem;
+    color: #15516e;
+  padding: 20px;
+  background-color: #c5d1f8;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+/* mensaje */
+h4{
+    font-size: 8rem;
+    font-family: "titulo";
+    text-align: center;
+    color: #15516e;
+}
+/* footer */
+h5{
+    font-family: "titulo";
+    font-size: 1.5rem;
+    color: #15516e;
+  
+}
+/* productos */
+article{
+    font-family: "titulo";
+    font-size: 1.5rem;
+    color: #15516e;
+}
+.productos{
+    height: 20rem;
+}
+.mdp{
+    height: 2rem;
+}
+.mde{
+    height: 2rem;
+    
+}
+.redes{
+    height: 2rem;
+
+}
+.contacto{
+    font-size: 1.8rem;
+    font-family: "titulo";
+    color: #15516e;
+}
+
+/* carrito */
+#parrafocarrito{
+    font-size: 7rem;
+    font-family: "titulo";
+    color: #15516e;
+    text-align: center;
+}
+
+.parrafoofertas{
+    text-align: center;
+    
+}
+/* preguntas frecuentyes */
+section{ font-size: 1.8rem;
+    font-family: "titulo";
+    color: #15516e;
+}
+
+.uno{
+    padding: 20px;
+    background-color: #AEE2FF;
+    border: 1px solid black;
+}
